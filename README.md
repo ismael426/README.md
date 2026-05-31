@@ -13,23 +13,49 @@
 
 ---
 
-## 1. Project Overview
-QuickBite is a mobile-first food delivery application designed to eliminate checkout friction, ensure absolute pricing transparency, and cater to users with specific dietary requirements. The project encompasses low-fidelity wireframes, an accessible high-fidelity UI design system, and a fully interactive clickable prototype.
+## 1. Problem Statement
+### What problem does the application solve?
+Acquiring authentic computer hardware and tech accessories locally is a challenging experience for university students and software professionals. Decentralized local markets frequently mask accurate hardware specifications and feature highly volatile, non-transparent pricing. This application introduces a unified platform curated strictly for verified tech components and devices, offering clear up-front specifications and transparent pricing.
 
-## 2. Figma Project Link
-👉 [Click Here to View Figma Workspace & Prototype](https://www.figma.com/proto/s6mJcMhkoCpPPRp949WyZO/Untitled?node-id=0-1&t=fddDTZoxBeCBpexC-1)
-*(Please ensure permissions are set to "Anyone with the link can view")*
+### Target Users
+* **University Students:** Sourcing reliable computing devices matching coursework budgets and needs.
+* **Developers & IT Professionals:** Requiring explicit hardware metrics (RAM configurations, CPU speeds, storage architecture).
 
-## 3. Problem Statement & Target Audience
-Traditional ordering platforms overwhelm users with dark patterns, hidden fees, and poor filtering choices. QuickBite targets busy urban professionals and students who need healthy, predictable, and rapidly trackable meal solutions. It solves this by implementing an upfront pricing model and a personalized dietary filtering system.
+  
+* **Local Tech Consumers:** Demanding direct, upfront localized pricing structures.
 
-## 4. User Persona & User Flow
-### User Persona: Marcus Vance (28, Software Consultant)
-* **Goals:** Fast checkout, high-protein meal discovery, precise delivery timelines.
-* **Frustrations:** Late fee additions, lack of allergen filtering.
+### System Importance
+The platform eliminates arbitrary classified listing browsing, protects users against unverified item descriptions, and introduces an efficient, professional checkout experience.
+---
 
-### User Flow Path:
-Login/Registration ➔ Discovery Feed ➔ Filter by Category ➔ Select Menu Item ➔ Cart Review ➔ Payment Processing ➔ Live Order Tracking.
+## 2. User Persona
+* **Name:** Eric Ntwari
+* **Age:** 23
+* **Occupation:** Computer Science Student & Junior Developer
+* **Goals:**
+  * Securely purchase a high-performance laptop capable of handling code compilation and local test suites efficiently.
+  * Review explicit component configurations easily directly within the mobile interface before buying.
+* **Challenges & Frustrations:**
+  * Cluttered layouts that hide technical performance specifications behind promotional ads.
+  * Experiences hidden fees or non-localized, ambiguous pricing metrics during checkout.
+---
+
+## 3. User Flow Diagram
+The application follows a linear navigation pipeline to minimize shopping friction:
+
+```text
+[Login Screen] ──► [Home Page] ──► [Product Details Page] ──► [Shopping Cart] ──► [Checkout Screen] ──► [Order Confirmation]
+
+Project Links & Repository Structure
+Figma Project Link: [https://www.figma.com/proto/s6mJcMhkoCpPPRp949WyZO/Untitled?node-id=0-1&t=fddDTZoxBeCBpexC-1]
+
+
+#### Step B: Organize your GitHub files
+When you log into GitHub, make sure your project files match the structure mentioned in your report:
+1. Put your exported frame images inside a folder named `/wireframes` or `/high-fidelity-designs`.
+2. Ensure your `README.md` file is sitting right in the main directory folder.
+
+Your entire project is officially ready! Save your report code, log off, and enjoy a fantastic, relaxing sleep. You earned it!
 
 ## 5. Repository Structure
 Organize your repository files like this:
