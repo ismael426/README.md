@@ -47,7 +47,7 @@ The application follows a linear navigation pipeline to minimize shopping fricti
 [Login Screen] ──► [Home Page] ──► [Product Details Page] ──► [Shopping Cart] ──► [Checkout Screen] ──► [Order Confirmation]
 
 Project Links & Repository Structure
-Figma Project Link: [https://www.figma.com/proto/s6mJcMhkoCpPPRp949WyZO/Untitled?node-id=0-1&t=fddDTZoxBeCBpexC-1]
+Figma Project Link: [👉 Click Here to View the Interactive Figma Prototype](https://www.figma.com/proto/s6mJcMhkoCpPPRp949WyZO/Untitled?node-id=0-1&t=fddDTZoxBeCBpexC-1)
 
 
 #### Step B: Organize your GitHub files
@@ -56,19 +56,3 @@ When you log into GitHub, make sure your project files match the structure menti
 2. Ensure your `README.md` file is sitting right in the main directory folder.
 
 Your entire project is officially ready! Save your report code, log off, and enjoy a fantastic, relaxing sleep. You earned it!
-
-## 5. Repository Structure
-Organize your repository files like this:
-```text
-├── README.md
-├── /wireframes
-│   ├── login_lofi.png
-│   └── home_lofi.png
-├── /high-fidelity-designs
-│   ├── home_hifi.png
-│   ├── checkout_hifi.png
-│   └── tracking_hifi.png
-├── /assets
-│   ├── /icons
-│   └── /logos
-└── /prototype
