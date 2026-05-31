@@ -5,7 +5,7 @@
 * QuickBite: A High-Fidelity Food Delivery Application
 * **Assignment Title:** Designing a User-Friendly Mobile Application Prototype
 * Group Assignment II: UI/UX E-Commerce Mobile Application
-* **Submission Deadline:** June 21, 2026
+* **Submission Deadline:** June 31, 2026
 ### Group Members:
 * Iraguha Humure Benon  (Reg No: 22942/2023)
 * Karenzi Issa (Reg No: 23005/2023)
